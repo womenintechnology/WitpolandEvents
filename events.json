@@ -1,0 +1,448 @@
+{
+  "data": [
+    {
+      "name": "WARSZTATY DLA KOBIET: East vs. West - warsztaty międzykulturowe",
+      "id": "936419569777142"
+    },
+    {
+      "name": "Santa Cloud vol. 2",
+      "id": "496850943823132"
+    },
+    {
+      "name": "Dream Job workshops IT #2",
+      "id": "931614823599259"
+    },
+    {
+      "name": "#30 spotkanie WiT Wrocław",
+      "id": "976690719036194"
+    },
+    {
+      "name": "#15 Spotkanie WiT Kraków",
+      "id": "474615476073643"
+    },
+    {
+      "name": "WARSZTATY DLA KOBIET: Architektura HTML, CSS i JS w dużych projektach",
+      "id": "912934998797573"
+    },
+    {
+      "name": "WARSZTATY DLA KOBIET: Jak wygląda obsługa klienta w service desk'ach?",
+      "id": "477255919123292"
+    },
+    {
+      "name": "WARSZTATY DLA KOBIET: Doskonalenie samej siebie - jak określić, zaplanować i osiągnąć cele",
+      "id": "952344141485723"
+    },
+    {
+      "name": "Warsztaty: „Jestem swoją własną szefową i radzę sobie doskonale”",
+      "id": "1657021771240232"
+    },
+    {
+      "name": "KONSULTACJE INDYWIDUALNE dla kobiet zainteresowanych branżą IT",
+      "id": "463632513844129"
+    },
+    {
+      "name": "WARSZTAT DLA KOBIET: Architektura HTML, CSS i JS w dużych projektach",
+      "id": "1652126238385302"
+    },
+    {
+      "name": "WARSZTATY DLA KOBIET: Od konfliktu do porozumienia. Rozwijanie umiejętności komunikacyjnych",
+      "id": "747954025309715"
+    },
+    {
+      "name": "#16 WiT Silesia: Halloween edition",
+      "id": "913883605332312"
+    },
+    {
+      "name": "Na czym polega praca elektronika",
+      "id": "1147498611945584"
+    },
+    {
+      "name": "Warsztaty: \"Jak budując dobre relacje zbudować sobie dobre życie?\"",
+      "id": "190328614638727"
+    },
+    {
+      "name": "Warsztaty Dream Job - \"Poznaj GITa\"",
+      "id": "930270613676024"
+    },
+    {
+      "name": "WARSZTATY DLA KOBIET: Ja kobieta w męskiej branży",
+      "id": "1687316521482951"
+    },
+    {
+      "name": "#29 spotkanie WiT Wrocław",
+      "id": "1646483685600818"
+    },
+    {
+      "name": "WARSZTATY DLA KOBIET: Testowanie oprogramowania - dokumentacja testowa",
+      "id": "492430944272034"
+    },
+    {
+      "name": "Warsztaty: Praktyczne wprowadzenie do ASP.Net",
+      "id": "534526063370391"
+    },
+    {
+      "name": "WARSZTATY DLA KOBIET: Zarządzanie zmianą osobistą",
+      "id": "1888489071376175"
+    },
+    {
+      "name": "ANGIELSKI DLA KOBIET: BE IT - Business English dla kobiet pracujących lub zainteresowanych pracą w branży IT",
+      "id": "1630472810556044"
+    },
+    {
+      "name": "WARSZTATY DLA KOBIET: Jak zacząć tworzyć gry komputerowe?",
+      "id": "177640719239028"
+    },
+    {
+      "name": "Warsztaty z automatyzacji testów- WiT Wrocław",
+      "id": "1642182172720412"
+    },
+    {
+      "name": "#28 Spotkanie WiT Wrocław",
+      "id": "1637885869827373"
+    },
+    {
+      "name": "#15 Spotkanie WiT Silesia - otwarcie Nowego Sezonu",
+      "id": "1613427268895475"
+    },
+    {
+      "name": "Warsztaty z podstaw HTML i CSS - WiT Kraków",
+      "id": "105899299764770"
+    },
+    {
+      "name": "#27 Spotkanie WiT Wrocław",
+      "id": "727772074011976"
+    },
+    {
+      "name": "Warsztaty o Zdrowiu z Trenerem Personalnym WiT Kraków",
+      "id": "549311821888032"
+    },
+    {
+      "name": "Women in Technology Kraków #14",
+      "id": "1518945345062503"
+    },
+    {
+      "name": "Women in Technology warsztaty Scrum",
+      "id": "482601545235736"
+    },
+    {
+      "name": "#26 spotkanie Women in Technology Wrocław",
+      "id": "676963342435254"
+    },
+    {
+      "name": "WHO RUN THE CODE? GIRLS! Wspólna impreza Geek Girls Carrots, Webmuses, WiT, IJI, Django Girls i ITberries",
+      "id": "1656937647868568"
+    },
+    {
+      "name": "#25 spotkanie Women in Technology Wrocław",
+      "id": "302194183237833"
+    },
+    {
+      "name": "Warsztaty z Testowania Oprogramowania #2",
+      "id": "1491223071169887"
+    },
+    {
+      "name": "Tworzymy aplikację Open Source od podstaw - Warszawa",
+      "id": "1412700109059092"
+    },
+    {
+      "name": "Produkcja Gier Komputerowych w Krakowie",
+      "id": "374995479377780"
+    },
+    {
+      "name": "Pierwsze urodziny Women in Technology w Krakowie",
+      "id": "963402777015078"
+    },
+    {
+      "name": "#14 spotkanie Women in Technology Silesia",
+      "id": "1650855391801374"
+    },
+    {
+      "name": "24. spotkanie Women in Technology we Wrocławiu",
+      "id": "882781211791863"
+    },
+    {
+      "name": "WiT Krk + Stowarzyszenie profesjonalistów informacji",
+      "id": "1593374780934641"
+    },
+    {
+      "name": "Warsztaty Kreatywne",
+      "id": "374776732709417"
+    },
+    {
+      "name": "WiT Silesia: Projektowanie i druk 3D - warsztaty",
+      "id": "1586180788320385"
+    },
+    {
+      "name": "WiT Silesia: Raspberry Pi warsztaty",
+      "id": "412098788969253"
+    },
+    {
+      "name": "23. spotkanie Women in Technology we Wrocławiu",
+      "id": "821738447907240"
+    },
+    {
+      "name": "Warsztaty Programowanie na Androida Kraków",
+      "id": "857288557676489"
+    },
+    {
+      "name": "WiT Wrocław: Warsztaty z Arduino",
+      "id": "821007944658083"
+    },
+    {
+      "name": "meet.js Katowice & Women in Technology",
+      "id": "1415230658783124"
+    },
+    {
+      "name": "22. spotkanie Women in Technology we Wrocławiu",
+      "id": "1563138127308617"
+    },
+    {
+      "name": "12. spotkanie Women in Technology Silesia",
+      "id": "441094756041470"
+    },
+    {
+      "name": "Women in Technology Kraków #11",
+      "id": "415510578624238"
+    },
+    {
+      "name": "Warsztaty Testowanie Oprogramowania Kraków",
+      "id": "1585115881733050"
+    },
+    {
+      "name": "11. spotkanie Women in Technology Silesia",
+      "id": "1571158609793564"
+    },
+    {
+      "name": "21. spotkanie Women in Technology we Wrocławiu",
+      "id": "1612093215689475"
+    },
+    {
+      "name": "8. Spotkanie Women in Technology w Warszawie",
+      "id": "1537864113132263"
+    },
+    {
+      "name": "10. Women in Technology Kraków",
+      "id": "786914554720305"
+    },
+    {
+      "name": "19. spotkanie Women in Technology we Wrocławiu",
+      "id": "444744165678146"
+    },
+    {
+      "name": "10. Women in Technology w Katowicach",
+      "id": "893285777372913"
+    },
+    {
+      "name": "Warsztaty Angular JS Kraków",
+      "id": "825454994178320"
+    },
+    {
+      "name": "7. Spotkanie Women in Technology w Warszawie",
+      "id": "672453576197034"
+    },
+    {
+      "name": "9. Women in Technology Kraków",
+      "id": "758942047518289"
+    },
+    {
+      "name": "Spotkanie świąteczne Wrocław",
+      "id": "1533924133514098"
+    },
+    {
+      "name": "8. Women in Technology Kraków",
+      "id": "389079807911744"
+    },
+    {
+      "name": "Zrób swojego robota i zawładnij światem IT ! ( warsztaty )",
+      "id": "315655035289710"
+    },
+    {
+      "name": "6. Spotkanie Women in Technology",
+      "id": "1596099017279589"
+    },
+    {
+      "name": "Santa Cloud: IT & Marketing Community for People and Animals",
+      "id": "1512323242352696"
+    },
+    {
+      "name": "18. SPOTKANIE WOMEN IN TECHNOLOGY WE WROCŁAWIU",
+      "id": "1544031375839159"
+    },
+    {
+      "name": "5. Spotkanie Women in Technology",
+      "id": "732538033466828"
+    },
+    {
+      "name": "7. Women in Technology Kraków",
+      "id": "658706817583105"
+    },
+    {
+      "name": "Women In Technology Silesia #8",
+      "id": "1490139884605394"
+    },
+    {
+      "name": "17. spotkanie Women in Technology we Wrocławiu",
+      "id": "690644517698277"
+    },
+    {
+      "name": "6. Women in Technology Kraków",
+      "id": "1519709591601375"
+    },
+    {
+      "name": "4. Spotkanie Women in Technology w Warszawie",
+      "id": "958074894208538"
+    },
+    {
+      "name": "Women In Technology Silesia #7",
+      "id": "1471263783139620"
+    },
+    {
+      "name": "5. Women in Technology Kraków",
+      "id": "1506566106257445"
+    },
+    {
+      "name": "16. spotkanie Women in Technology we Wrocławiu",
+      "id": "368842109907723"
+    },
+    {
+      "name": "3. Spotkanie Women in Technology w Warszawie",
+      "id": "641362879296251"
+    },
+    {
+      "name": "[ Katowice ] 6 spotkanie Women In Technology na Śląsku",
+      "id": "356028547886994"
+    },
+    {
+      "name": "4. Women in Technology Kraków",
+      "id": "589124664532991"
+    },
+    {
+      "name": "5. spotkanie Women In Technology na Śląsku",
+      "id": "677744305629300"
+    },
+    {
+      "name": "15. spotkanie Women in Technology we Wrocławiu",
+      "id": "337770259718239"
+    },
+    {
+      "name": "3. spotkanie Women in Technology w Krakowie",
+      "id": "688917104510897"
+    },
+    {
+      "name": "14. spotkanie Women in Technology we Wrocławiu",
+      "id": "680457478708771"
+    },
+    {
+      "name": "1. Spotkanie Women in Technology w Warszawie",
+      "id": "693078197434828"
+    },
+    {
+      "name": "2. Women in Technology meeting in Kraków is coming!",
+      "id": "730520660342557"
+    },
+    {
+      "name": "4 spotkanie Women In Technology na Śląsku",
+      "id": "1457124131211622"
+    },
+    {
+      "name": "13. spotkanie Women in Technology we Wrocławiu",
+      "id": "587897787990759"
+    },
+    {
+      "name": "3 spotkanie Women in Technology na Śląsku",
+      "id": "674468945935826"
+    },
+    {
+      "name": "12. spotkanie Women in Technology we Wrocławiu",
+      "id": "446047072165496"
+    },
+    {
+      "name": "2 spotkanie Women in Technology na Śląsku",
+      "id": "215579928652694"
+    },
+    {
+      "name": "11. spotkanie Women in Technology we Wrocławiu",
+      "id": "621409354605671"
+    },
+    {
+      "name": "1 spotkanie Women in Technology na Śląsku",
+      "id": "713191245405303"
+    },
+    {
+      "name": "10. spotkanie Women in Technology we Wrocławiu",
+      "id": "425644367582283"
+    },
+    {
+      "name": "9. spotkanie Women in Technology",
+      "id": "1527611757463417"
+    },
+    {
+      "name": "8. spotkanie Women in Technology",
+      "id": "580944751994464"
+    },
+    {
+      "name": "Świąteczne spotkanie",
+      "id": "549927861771015"
+    },
+    {
+      "name": "7 spotkanie Women in Technology",
+      "id": "446331938809973"
+    },
+    {
+      "name": "6 spotkanie Women in Technology",
+      "id": "212963042215220"
+    },
+    {
+      "name": "5 spotkanie Women in Technology",
+      "id": "622135311140967"
+    },
+    {
+      "name": "4 spotkanie Women in Technology",
+      "id": "547208718666225"
+    },
+    {
+      "name": "3 spotkanie Women in Technology",
+      "id": "488202467937114"
+    },
+    {
+      "name": "2 spotkanie Women in Technology we Wrocławiu",
+      "id": "200234590131107"
+    },
+    {
+      "name": "I Spotkanie Women in Technology we Wrocławiu",
+      "id": "125373914333358"
+    },
+    {
+      "name": "21 spotkanie Women in Technology",
+      "id": "363313350401661"
+    },
+    {
+      "name": "20 spotkanie Women in Technology",
+      "id": "883552738372032"
+    },
+    {
+      "name": "19 spotkanie Women in Technology",
+      "id": "835443039875836"
+    },
+    {
+      "name": "18 spotkanie Women in Technology",
+      "id": "807814285940803"
+    },
+    {
+      "name": "17 spotkanie Women in Technology",
+      "id": "721967144581874"
+    },
+    {
+      "name": "16 spotkanie Women in Technology",
+      "id": "1036798869680746"
+    },
+    {
+      "name": "15 spotkanie Women in Technology",
+      "id": "991548357531538"
+    },
+    {
+      "name": "14 spotkanie Women in Technology",
+      "id": "786367484804054"
+    }
+  ]
+}
