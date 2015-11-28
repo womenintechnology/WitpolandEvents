@@ -2,446 +2,997 @@
   "data": [
     {
       "name": "WARSZTATY DLA KOBIET: East vs. West - warsztaty międzykulturowe",
+      "place": {
+        "name": "Fundacja Przestrzeń Rozwoju",
+        "id": "723459771015083"
+      },
+      "start_time": "2015-12-04T17:30:00+0100",
+      "end_time": "2015-12-04T20:30:00+0100",
       "id": "936419569777142"
     },
     {
       "name": "Santa Cloud vol. 2",
+      "place": {
+        "name": "Drzwi Zwane Koniem",
+        "id": "1499659446989899"
+      },
+      "start_time": "2015-12-03T18:00:00+0100",
       "id": "496850943823132"
     },
     {
       "name": "Dream Job workshops IT #2",
+      "place": {
+        "name": "Śródmiejski Ośrodek Kultury w Krakowie",
+        "id": "159285064115314"
+      },
+      "start_time": "2015-11-28T16:30:00+0100",
+      "end_time": "2015-11-28T18:30:00+0100",
       "id": "931614823599259"
     },
     {
       "name": "#30 spotkanie WiT Wrocław",
+      "place": {
+        "name": "Pub Włodkowica 21",
+        "id": "124551060916341"
+      },
+      "start_time": "2015-11-26T17:45:00+0100",
       "id": "976690719036194"
     },
     {
       "name": "#15 Spotkanie WiT Kraków",
+      "place": {
+        "name": "Pauza In Garden",
+        "id": "455047067902176"
+      },
+      "start_time": "2015-11-25T18:00:00+0100",
       "id": "474615476073643"
     },
     {
       "name": "WARSZTATY DLA KOBIET: Architektura HTML, CSS i JS w dużych projektach",
+      "place": {
+        "name": "Fundacja Przestrzeń Rozwoju",
+        "id": "723459771015083"
+      },
+      "start_time": "2015-11-22T10:00:00+0100",
+      "end_time": "2015-11-22T18:00:00+0100",
       "id": "912934998797573"
     },
     {
       "name": "WARSZTATY DLA KOBIET: Jak wygląda obsługa klienta w service desk'ach?",
+      "place": {
+        "name": "Fundacja Przestrzeń Rozwoju",
+        "id": "723459771015083"
+      },
+      "start_time": "2015-11-20T17:30:00+0100",
+      "end_time": "2015-11-20T20:45:00+0100",
       "id": "477255919123292"
     },
     {
       "name": "WARSZTATY DLA KOBIET: Doskonalenie samej siebie - jak określić, zaplanować i osiągnąć cele",
+      "place": {
+        "name": "Fundacja Przestrzeń Rozwoju",
+        "id": "723459771015083"
+      },
+      "start_time": "2015-11-19T17:30:00+0100",
+      "end_time": "2015-11-19T20:45:00+0100",
       "id": "952344141485723"
     },
     {
       "name": "Warsztaty: „Jestem swoją własną szefową i radzę sobie doskonale”",
+      "place": {
+        "name": "Sii ul. Gwiaździsta 66, Wrocław"
+      },
+      "start_time": "2015-11-17T18:00:00+0100",
+      "end_time": "2015-11-17T20:00:00+0100",
       "id": "1657021771240232"
     },
     {
       "name": "KONSULTACJE INDYWIDUALNE dla kobiet zainteresowanych branżą IT",
+      "place": {
+        "name": "Fundacja Przestrzeń Rozwoju",
+        "id": "723459771015083"
+      },
+      "start_time": "2015-11-17T18:00:00+0100",
+      "end_time": "2015-11-24T19:00:00+0100",
       "id": "463632513844129"
     },
     {
       "name": "WARSZTAT DLA KOBIET: Architektura HTML, CSS i JS w dużych projektach",
+      "place": {
+        "name": "Fundacja Przestrzeń Rozwoju",
+        "id": "723459771015083"
+      },
+      "start_time": "2015-11-11T09:00:00+0100",
+      "end_time": "2015-11-11T17:00:00+0100",
       "id": "1652126238385302"
     },
     {
       "name": "WARSZTATY DLA KOBIET: Od konfliktu do porozumienia. Rozwijanie umiejętności komunikacyjnych",
+      "place": {
+        "name": "Fundacja Przestrzeń Rozwoju",
+        "id": "723459771015083"
+      },
+      "start_time": "2015-11-02T18:00:00+0100",
+      "end_time": "2015-11-30T20:30:00+0100",
       "id": "747954025309715"
     },
     {
       "name": "#16 WiT Silesia: Halloween edition",
+      "place": {
+        "name": "Drzwi Zwane Koniem",
+        "id": "1499659446989899"
+      },
+      "start_time": "2015-10-31T18:00:00+0100",
       "id": "913883605332312"
     },
     {
       "name": "Na czym polega praca elektronika",
+      "place": {
+        "name": "Coders Lab - Szkoła Programowania",
+        "id": "495573633852065"
+      },
+      "start_time": "2015-10-29T18:00:00+0100",
       "id": "1147498611945584"
     },
     {
       "name": "Warsztaty: \"Jak budując dobre relacje zbudować sobie dobre życie?\"",
+      "place": {
+        "name": "Business Link Kraków",
+        "id": "522345511139116"
+      },
+      "start_time": "2015-10-29T17:30:00+0100",
+      "end_time": "2015-10-29T21:30:00+0100",
       "id": "190328614638727"
     },
     {
       "name": "Warsztaty Dream Job - \"Poznaj GITa\"",
+      "place": {
+        "name": "Śródmiejski Ośrodek Kultury w Krakowie",
+        "id": "159285064115314"
+      },
+      "start_time": "2015-10-25T15:30:00+0100",
+      "end_time": "2015-10-25T17:00:00+0100",
       "id": "930270613676024"
     },
     {
       "name": "WARSZTATY DLA KOBIET: Ja kobieta w męskiej branży",
+      "place": {
+        "name": "Fundacja Przestrzeń Rozwoju",
+        "id": "723459771015083"
+      },
+      "start_time": "2015-10-25T10:00:00+0100",
+      "end_time": "2015-10-25T15:00:00+0100",
       "id": "1687316521482951"
     },
     {
       "name": "#29 spotkanie WiT Wrocław",
+      "place": {
+        "name": "Szklarnia",
+        "id": "309276439258612"
+      },
+      "start_time": "2015-10-21T18:00:00+0200",
       "id": "1646483685600818"
     },
     {
       "name": "WARSZTATY DLA KOBIET: Testowanie oprogramowania - dokumentacja testowa",
+      "place": {
+        "name": "Sabre Polska sp. z. o."
+      },
+      "start_time": "2015-10-20T18:00:00+0200",
+      "end_time": "2015-10-20T21:00:00+0200",
       "id": "492430944272034"
     },
     {
       "name": "Warsztaty: Praktyczne wprowadzenie do ASP.Net",
+      "place": {
+        "name": "u2i Kraków",
+        "id": "147926171934169"
+      },
+      "start_time": "2015-10-19T17:30:00+0200",
+      "end_time": "2015-10-19T20:30:00+0200",
       "id": "534526063370391"
     },
     {
       "name": "WARSZTATY DLA KOBIET: Zarządzanie zmianą osobistą",
+      "place": {
+        "name": "Fundacja Przestrzeń Rozwoju",
+        "id": "723459771015083"
+      },
+      "start_time": "2015-10-17T10:00:00+0200",
+      "end_time": "2015-10-17T16:00:00+0200",
       "id": "1888489071376175"
     },
     {
       "name": "ANGIELSKI DLA KOBIET: BE IT - Business English dla kobiet pracujących lub zainteresowanych pracą w branży IT",
+      "place": {
+        "name": "Fundacja Przestrzeń Rozwoju",
+        "id": "723459771015083"
+      },
+      "start_time": "2015-10-14T18:00:00+0200",
+      "end_time": "2015-11-25T19:30:00+0100",
       "id": "1630472810556044"
     },
     {
       "name": "WARSZTATY DLA KOBIET: Jak zacząć tworzyć gry komputerowe?",
+      "place": {
+        "name": "creativestyle Polska",
+        "id": "179448206926"
+      },
+      "start_time": "2015-10-11T14:00:00+0200",
+      "end_time": "2015-10-11T18:00:00+0200",
       "id": "177640719239028"
     },
     {
       "name": "Warsztaty z automatyzacji testów- WiT Wrocław",
+      "place": {
+        "name": "Business Link Wrocław",
+        "id": "245330285599824"
+      },
+      "start_time": "2015-09-25T18:00:00+0200",
       "id": "1642182172720412"
     },
     {
       "name": "#28 Spotkanie WiT Wrocław",
+      "place": {
+        "name": "Pub Włodkowica 21",
+        "id": "124551060916341"
+      },
+      "start_time": "2015-09-23T17:45:00+0200",
       "id": "1637885869827373"
     },
     {
       "name": "#15 Spotkanie WiT Silesia - otwarcie Nowego Sezonu",
+      "place": {
+        "name": "Drzwi Zwane Koniem",
+        "id": "1499659446989899"
+      },
+      "start_time": "2015-09-04T18:00:00+0200",
       "id": "1613427268895475"
     },
     {
       "name": "Warsztaty z podstaw HTML i CSS - WiT Kraków",
+      "place": {
+        "name": "Św.Krzyża 5/8, Kraków"
+      },
+      "start_time": "2015-08-29T11:00:00+0200",
+      "end_time": "2015-09-05T14:00:00+0200",
       "id": "105899299764770"
     },
     {
       "name": "#27 Spotkanie WiT Wrocław",
+      "place": {
+        "name": "Pub Włodkowica 21",
+        "id": "124551060916341"
+      },
+      "start_time": "2015-08-26T18:00:00+0200",
       "id": "727772074011976"
     },
     {
       "name": "Warsztaty o Zdrowiu z Trenerem Personalnym WiT Kraków",
+      "place": {
+        "name": "Ambasada Krakowian",
+        "id": "634870803260405"
+      },
+      "start_time": "2015-08-25T18:00:00+0200",
+      "end_time": "2015-08-25T21:00:00+0200",
       "id": "549311821888032"
     },
     {
       "name": "Women in Technology Kraków #14",
+      "place": {
+        "name": "Ambasada Krakowian",
+        "id": "634870803260405"
+      },
+      "start_time": "2015-08-04T18:00:00+0200",
+      "end_time": "2015-08-04T21:00:00+0200",
       "id": "1518945345062503"
     },
     {
       "name": "Women in Technology warsztaty Scrum",
+      "place": {
+        "name": "Business Link Kraków, 65 Mogilska, Kraków, PL"
+      },
+      "start_time": "2015-08-01T09:00:00+0200",
+      "end_time": "2015-08-01T18:00:00+0200",
       "id": "482601545235736"
     },
     {
       "name": "#26 spotkanie Women in Technology Wrocław",
+      "place": {
+        "name": "Pub Włodkowica 21",
+        "id": "124551060916341"
+      },
+      "start_time": "2015-07-29T18:00:00+0200",
       "id": "676963342435254"
     },
     {
       "name": "WHO RUN THE CODE? GIRLS! Wspólna impreza Geek Girls Carrots, Webmuses, WiT, IJI, Django Girls i ITberries",
+      "place": {
+        "name": "Oranżeria Pergamin",
+        "id": "153657794655572"
+      },
+      "start_time": "2015-07-09T19:00:00+0200",
       "id": "1656937647868568"
     },
     {
       "name": "#25 spotkanie Women in Technology Wrocław",
+      "place": {
+        "name": "Pub Włodkowica 21",
+        "id": "124551060916341"
+      },
+      "start_time": "2015-06-26T18:00:00+0200",
       "id": "302194183237833"
     },
     {
       "name": "Warsztaty z Testowania Oprogramowania #2",
+      "place": {
+        "name": "Hubraum Krakow",
+        "id": "489606037773016"
+      },
+      "start_time": "2015-06-25T18:00:00+0200",
+      "end_time": "2015-06-25T21:00:00+0200",
       "id": "1491223071169887"
     },
     {
       "name": "Tworzymy aplikację Open Source od podstaw - Warszawa",
+      "place": {
+        "name": "Polsko-Japońska Wyższa Szkoła Technik Komputerowych",
+        "id": "211645928852834"
+      },
+      "start_time": "2015-06-25T18:00:00+0200",
       "id": "1412700109059092"
     },
     {
       "name": "Produkcja Gier Komputerowych w Krakowie",
+      "place": {
+        "name": "Hubraum Krakow",
+        "id": "489606037773016"
+      },
+      "start_time": "2015-06-21T15:00:00+0200",
+      "end_time": "2015-06-21T19:00:00+0200",
       "id": "374995479377780"
     },
     {
       "name": "Pierwsze urodziny Women in Technology w Krakowie",
+      "place": {
+        "name": "Pauza In Garden",
+        "id": "455047067902176"
+      },
+      "start_time": "2015-06-16T18:00:00+0200",
       "id": "963402777015078"
     },
     {
       "name": "#14 spotkanie Women in Technology Silesia",
+      "place": {
+        "name": "BO TAK WegePrzestrzeń",
+        "id": "692427124176635"
+      },
+      "start_time": "2015-06-12T18:00:00+0200",
       "id": "1650855391801374"
     },
     {
       "name": "24. spotkanie Women in Technology we Wrocławiu",
+      "place": {
+        "name": "SkyTower, bud. B, 25. piętro, siedziba firmy SII"
+      },
+      "start_time": "2015-05-26T18:00:00+0200",
       "id": "882781211791863"
     },
     {
       "name": "WiT Krk + Stowarzyszenie profesjonalistów informacji",
+      "place": {
+        "name": "Pauza In Garden",
+        "id": "455047067902176"
+      },
+      "start_time": "2015-05-25T18:00:00+0200",
       "id": "1593374780934641"
     },
     {
       "name": "Warsztaty Kreatywne",
+      "place": {
+        "name": "u2i Kraków",
+        "id": "147926171934169"
+      },
+      "start_time": "2015-05-18T18:00:00+0200",
+      "end_time": "2015-05-18T20:30:00+0200",
       "id": "374776732709417"
     },
     {
       "name": "WiT Silesia: Projektowanie i druk 3D - warsztaty",
+      "place": {
+        "name": "Hackerspace Silesia",
+        "id": "419137404886755"
+      },
+      "start_time": "2015-05-16T10:00:00+0200",
       "id": "1586180788320385"
     },
     {
       "name": "WiT Silesia: Raspberry Pi warsztaty",
+      "place": {
+        "name": "Hackerspace Silesia",
+        "id": "419137404886755"
+      },
+      "start_time": "2015-05-07T18:00:00+0200",
       "id": "412098788969253"
     },
     {
       "name": "23. spotkanie Women in Technology we Wrocławiu",
+      "place": {
+        "name": "Cocofli - books art cafe wine bar",
+        "id": "202287416564660"
+      },
+      "start_time": "2015-04-28T18:00:00+0200",
       "id": "821738447907240"
     },
     {
       "name": "Warsztaty Programowanie na Androida Kraków",
+      "place": {
+        "name": "Creative Coworking",
+        "id": "217967445036732"
+      },
+      "start_time": "2015-04-27T18:00:00+0200",
+      "end_time": "2015-04-27T20:00:00+0200",
       "id": "857288557676489"
     },
     {
       "name": "WiT Wrocław: Warsztaty z Arduino",
+      "place": {
+        "name": "SII Wrocław, SkyTower  Bud. B, p. 25, ul. Gwiaździsta 66"
+      },
+      "start_time": "2015-04-27T18:00:00+0200",
       "id": "821007944658083"
     },
     {
       "name": "meet.js Katowice & Women in Technology",
+      "place": {
+        "name": "Hackerspace Silesia",
+        "id": "419137404886755"
+      },
+      "start_time": "2015-04-10T18:00:00+0200",
       "id": "1415230658783124"
     },
     {
       "name": "22. spotkanie Women in Technology we Wrocławiu",
+      "place": {
+        "name": "Cocofli - books art cafe wine bar",
+        "id": "202287416564660"
+      },
+      "start_time": "2015-03-31T18:00:00+0200",
       "id": "1563138127308617"
     },
     {
       "name": "12. spotkanie Women in Technology Silesia",
+      "place": {
+        "name": "BO TAK WegePrzestrzeń",
+        "id": "692427124176635"
+      },
+      "start_time": "2015-03-26T18:00:00+0100",
       "id": "441094756041470"
     },
     {
       "name": "Women in Technology Kraków #11",
+      "place": {
+        "name": "Pauza In Garden, Rajska 12, Kraków, PL"
+      },
+      "start_time": "2015-03-16T18:00:00+0100",
+      "end_time": "2015-03-16T22:00:00+0100",
       "id": "415510578624238"
     },
     {
       "name": "Warsztaty Testowanie Oprogramowania Kraków",
+      "place": {
+        "name": "Sii Kraków",
+        "id": "1471521509779088"
+      },
+      "start_time": "2015-03-03T18:00:00+0100",
+      "end_time": "2015-03-03T20:00:00+0100",
       "id": "1585115881733050"
     },
     {
       "name": "11. spotkanie Women in Technology Silesia",
+      "place": {
+        "name": "BO TAK WegePrzestrzeń",
+        "id": "692427124176635"
+      },
+      "start_time": "2015-02-26T18:00:00+0100",
       "id": "1571158609793564"
     },
     {
       "name": "21. spotkanie Women in Technology we Wrocławiu",
+      "place": {
+        "name": "Sky Tower",
+        "id": "145917348800003"
+      },
+      "start_time": "2015-02-24T18:00:00+0100",
+      "end_time": "2015-02-24T20:00:00+0100",
       "id": "1612093215689475"
     },
     {
       "name": "8. Spotkanie Women in Technology w Warszawie",
+      "place": {
+        "name": "Poland"
+      },
+      "start_time": "2015-02-23T18:00:00+0100",
       "id": "1537864113132263"
     },
     {
       "name": "10. Women in Technology Kraków",
+      "place": {
+        "name": "Pauza In Garden",
+        "id": "455047067902176"
+      },
+      "start_time": "2015-02-10T18:00:00+0100",
+      "end_time": "2015-02-10T21:00:00+0100",
       "id": "786914554720305"
     },
     {
       "name": "19. spotkanie Women in Technology we Wrocławiu",
+      "place": {
+        "name": "Sky Tower",
+        "id": "145917348800003"
+      },
+      "start_time": "2015-01-23T18:15:00+0100",
+      "end_time": "2015-01-23T21:30:00+0100",
       "id": "444744165678146"
     },
     {
       "name": "10. Women in Technology w Katowicach",
+      "place": {
+        "name": "Inwersja",
+        "id": "550112805102784"
+      },
+      "start_time": "2015-01-23T18:00:00+0100",
       "id": "893285777372913"
     },
     {
       "name": "Warsztaty Angular JS Kraków",
+      "place": {
+        "name": "Ambasada Krakowian",
+        "id": "634870803260405"
+      },
+      "start_time": "2015-01-20T18:00:00+0100",
       "id": "825454994178320"
     },
     {
       "name": "7. Spotkanie Women in Technology w Warszawie",
+      "place": {
+        "name": " Firma Xstream (4 piętro), przy metrze Wilanowska Ul. Pulawska 182, Warszawa"
+      },
+      "start_time": "2015-01-20T18:00:00+0100",
       "id": "672453576197034"
     },
     {
       "name": "9. Women in Technology Kraków",
+      "place": {
+        "name": "Pauza In Garden",
+        "id": "455047067902176"
+      },
+      "start_time": "2015-01-13T18:00:00+0100",
       "id": "758942047518289"
     },
     {
       "name": "Spotkanie świąteczne Wrocław",
+      "place": {
+        "name": "Padbar",
+        "id": "239383646187236"
+      },
+      "start_time": "2014-12-17T18:30:00+0100",
       "id": "1533924133514098"
     },
     {
       "name": "8. Women in Technology Kraków",
+      "place": {
+        "name": "Ambasada Krakowian",
+        "id": "634870803260405"
+      },
+      "start_time": "2014-12-16T18:00:00+0100",
       "id": "389079807911744"
     },
     {
       "name": "Zrób swojego robota i zawładnij światem IT ! ( warsztaty )",
+      "place": {
+        "name": "Inwersja",
+        "id": "550112805102784"
+      },
+      "start_time": "2014-12-16T18:00:00+0100",
       "id": "315655035289710"
     },
     {
       "name": "6. Spotkanie Women in Technology",
+      "place": {
+        "name": "Poland"
+      },
+      "start_time": "2014-12-08T18:00:00+0100",
       "id": "1596099017279589"
     },
     {
       "name": "Santa Cloud: IT & Marketing Community for People and Animals",
+      "place": {
+        "name": "Strefa Centralna",
+        "id": "1376006482624106"
+      },
+      "start_time": "2014-12-02T18:00:00+0100",
       "id": "1512323242352696"
     },
     {
       "name": "18. SPOTKANIE WOMEN IN TECHNOLOGY WE WROCŁAWIU",
+      "place": {
+        "name": "IdeaPlace",
+        "id": "108766029199157"
+      },
+      "start_time": "2014-11-25T18:30:00+0100",
+      "end_time": "2014-11-25T20:30:00+0100",
       "id": "1544031375839159"
     },
     {
       "name": "5. Spotkanie Women in Technology",
+      "place": {
+        "name": "ul. Puławska 182, Warszawa"
+      },
+      "start_time": "2014-11-18T18:00:00+0100",
       "id": "732538033466828"
     },
     {
       "name": "7. Women in Technology Kraków",
+      "place": {
+        "name": "ToTu Klub",
+        "id": "519106091567017"
+      },
+      "start_time": "2014-11-18T18:00:00+0100",
       "id": "658706817583105"
     },
     {
       "name": "Women In Technology Silesia #8",
+      "place": {
+        "name": "Inwersja",
+        "id": "550112805102784"
+      },
+      "start_time": "2014-11-13T18:00:00+0100",
       "id": "1490139884605394"
     },
     {
       "name": "17. spotkanie Women in Technology we Wrocławiu",
+      "place": {
+        "name": "Sky Tower",
+        "id": "145917348800003"
+      },
+      "start_time": "2014-10-28T18:00:00+0100",
       "id": "690644517698277"
     },
     {
       "name": "6. Women in Technology Kraków",
+      "place": {
+        "name": "Hubraum Krakow",
+        "id": "489606037773016"
+      },
+      "start_time": "2014-10-25T18:00:00+0200",
       "id": "1519709591601375"
     },
     {
       "name": "4. Spotkanie Women in Technology w Warszawie",
+      "place": {
+        "name": "Poland"
+      },
+      "start_time": "2014-10-20T18:00:00+0200",
       "id": "958074894208538"
     },
     {
       "name": "Women In Technology Silesia #7",
+      "place": {
+        "name": "Magazyn - Bar Lounge Mariacka",
+        "id": "161645930670429"
+      },
+      "start_time": "2014-10-15T18:00:00+0200",
       "id": "1471263783139620"
     },
     {
       "name": "5. Women in Technology Kraków",
+      "place": {
+        "name": "Pauza In Garden",
+        "id": "455047067902176"
+      },
+      "start_time": "2014-10-07T18:30:00+0200",
       "id": "1506566106257445"
     },
     {
       "name": "16. spotkanie Women in Technology we Wrocławiu",
+      "place": {
+        "name": "Skytower",
+        "id": "267078176736603"
+      },
+      "start_time": "2014-09-30T18:00:00+0200",
+      "end_time": "2014-09-30T20:00:00+0200",
       "id": "368842109907723"
     },
     {
       "name": "3. Spotkanie Women in Technology w Warszawie",
+      "place": {
+        "name": "ul. Pulawska 182, Warszawa"
+      },
+      "start_time": "2014-09-22T18:00:00+0200",
       "id": "641362879296251"
     },
     {
       "name": "[ Katowice ] 6 spotkanie Women In Technology na Śląsku",
+      "place": {
+        "name": "Cybermachina",
+        "id": "303369603099083"
+      },
+      "start_time": "2014-09-18T18:00:00+0200",
       "id": "356028547886994"
     },
     {
       "name": "4. Women in Technology Kraków",
+      "place": {
+        "name": "Pauza In Garden",
+        "id": "455047067902176"
+      },
+      "start_time": "2014-09-17T18:00:00+0200",
       "id": "589124664532991"
     },
     {
       "name": "5. spotkanie Women In Technology na Śląsku",
+      "place": {
+        "name": "SkyGate",
+        "id": "202525236536085"
+      },
+      "start_time": "2014-08-28T18:00:00+0200",
       "id": "677744305629300"
     },
     {
       "name": "15. spotkanie Women in Technology we Wrocławiu",
+      "place": {
+        "name": "siedziba SII, SkyTower, budynek B, 25. piętro, ul. Gwiaździsta 66"
+      },
+      "start_time": "2014-08-26T18:00:00+0200",
       "id": "337770259718239"
     },
     {
       "name": "3. spotkanie Women in Technology w Krakowie",
+      "place": {
+        "name": "Google for Entrepreneurs Krakow",
+        "id": "542000039204418"
+      },
+      "start_time": "2014-08-19T18:00:00+0200",
       "id": "688917104510897"
     },
     {
       "name": "14. spotkanie Women in Technology we Wrocławiu",
+      "place": {
+        "name": "siedziba SII, SkyTower, budynek B, 25. piętro, ul. Gwiaździsta 66"
+      },
+      "start_time": "2014-07-29T18:00:00+0200",
       "id": "680457478708771"
     },
     {
       "name": "1. Spotkanie Women in Technology w Warszawie",
+      "place": {
+        "name": "ul.Postępu 17A, Warszawa"
+      },
+      "start_time": "2014-07-28T18:00:00+0200",
       "id": "693078197434828"
     },
     {
       "name": "2. Women in Technology meeting in Kraków is coming!",
+      "place": {
+        "name": "Google for Entrepreneurs Krakow",
+        "id": "542000039204418"
+      },
+      "start_time": "2014-07-10T18:00:00+0200",
       "id": "730520660342557"
     },
     {
       "name": "4 spotkanie Women In Technology na Śląsku",
+      "place": {
+        "name": "SkyGate",
+        "id": "202525236536085"
+      },
+      "start_time": "2014-07-09T18:00:00+0200",
       "id": "1457124131211622"
     },
     {
       "name": "13. spotkanie Women in Technology we Wrocławiu",
+      "place": {
+        "name": "siedziba SII, SkyTower, budynek B, 25. piętro, ul. Gwiaździsta 66"
+      },
+      "start_time": "2014-06-24T18:00:00+0200",
       "id": "587897787990759"
     },
     {
       "name": "3 spotkanie Women in Technology na Śląsku",
+      "place": {
+        "name": "SkyGate",
+        "id": "202525236536085"
+      },
+      "start_time": "2014-06-12T18:00:00+0200",
       "id": "674468945935826"
     },
     {
       "name": "12. spotkanie Women in Technology we Wrocławiu",
+      "place": {
+        "name": "siedziba SII, SkyTower, budynek B, 25. piętro, ul. Gwiaździsta 66"
+      },
+      "start_time": "2014-05-27T18:00:00+0200",
       "id": "446047072165496"
     },
     {
       "name": "2 spotkanie Women in Technology na Śląsku",
+      "place": {
+        "name": "SkyGate",
+        "id": "202525236536085"
+      },
+      "start_time": "2014-05-08T18:00:00+0200",
+      "end_time": "2014-05-08T21:00:00+0200",
       "id": "215579928652694"
     },
     {
       "name": "11. spotkanie Women in Technology we Wrocławiu",
+      "place": {
+        "name": "siedziba SII, SkyTower, budynek B, 25. piętro, ul. Gwiaździsta 66"
+      },
+      "start_time": "2014-04-29T18:00:00+0200",
       "id": "621409354605671"
     },
     {
       "name": "1 spotkanie Women in Technology na Śląsku",
+      "place": {
+        "name": "SkyGate",
+        "id": "202525236536085"
+      },
+      "start_time": "2014-04-10T18:00:00+0200",
+      "end_time": "2014-04-10T21:00:00+0200",
       "id": "713191245405303"
     },
     {
       "name": "10. spotkanie Women in Technology we Wrocławiu",
+      "place": {
+        "name": "siedziba SII, SkyTower, budynek B, 25. piętro, ul. Gwiaździsta 66"
+      },
+      "start_time": "2014-03-25T18:00:00+0100",
+      "end_time": "2014-03-25T21:00:00+0100",
       "id": "425644367582283"
     },
     {
       "name": "9. spotkanie Women in Technology",
+      "place": {
+        "name": "siedziba SII, SkyTower, budynek B, 25. piętro, ul. Gwiaździsta 66"
+      },
+      "start_time": "2014-02-25T18:00:00+0100",
+      "end_time": "2014-02-25T21:00:00+0100",
       "id": "1527611757463417"
     },
     {
       "name": "8. spotkanie Women in Technology",
+      "place": {
+        "name": " siedziba SII, SkyTower, budynek B, 25. piętro, ul. Gwiaździsta 66"
+      },
+      "start_time": "2014-01-28T18:00:00+0100",
       "id": "580944751994464"
     },
     {
       "name": "Świąteczne spotkanie",
+      "place": {
+        "name": "Bohema, ul. Ofiar Oświęcimskich 15 "
+      },
+      "start_time": "2013-12-17T19:30:00+0100",
       "id": "549927861771015"
     },
     {
       "name": "7 spotkanie Women in Technology",
+      "place": {
+        "name": "siedziba SII, SkyTower, budynek B, 25. piętro, ul. Gwiaździsta 66"
+      },
+      "start_time": "2013-11-26T18:00:00+0100",
       "id": "446331938809973"
     },
     {
       "name": "6 spotkanie Women in Technology",
+      "place": {
+        "name": "siedziba SII, SkyTower, budynek B, 25. piętro, ul. Gwiaździsta 66"
+      },
+      "start_time": "2013-10-29T18:00:00+0100",
+      "end_time": "2013-10-29T20:00:00+0100",
       "id": "212963042215220"
     },
     {
       "name": "5 spotkanie Women in Technology",
+      "place": {
+        "name": "Gwiaździsta 66, Wrocław, Sky Tower"
+      },
+      "start_time": "2013-09-24T18:00:00+0200",
+      "end_time": "2013-09-24T20:00:00+0200",
       "id": "622135311140967"
     },
     {
       "name": "4 spotkanie Women in Technology",
+      "place": {
+        "name": "ul. Gwiaździsta 66, Wrocław, SkyTower, siedziba firmy SII"
+      },
+      "start_time": "2013-08-27T18:00:00+0200",
+      "end_time": "2013-08-27T20:00:00+0200",
       "id": "547208718666225"
     },
     {
       "name": "3 spotkanie Women in Technology",
+      "place": {
+        "name": "Gwiaździsta 66, SkyTower, bud. B, piętro 25, siedziba firmy SII"
+      },
+      "start_time": "2013-07-30T18:00:00+0200",
+      "end_time": "2013-07-30T20:00:00+0200",
       "id": "488202467937114"
     },
     {
       "name": "2 spotkanie Women in Technology we Wrocławiu",
+      "place": {
+        "name": "Legnicka 65, Wrocław"
+      },
+      "start_time": "2013-06-25T17:30:00+0200",
+      "end_time": "2013-06-25T19:30:00+0200",
       "id": "200234590131107"
     },
     {
       "name": "I Spotkanie Women in Technology we Wrocławiu",
+      "place": {
+        "name": "pl. Grunwaldzki 2/4"
+      },
+      "start_time": "2013-05-28T17:30:00+0200",
+      "end_time": "2013-05-28T20:00:00+0200",
       "id": "125373914333358"
     },
     {
       "name": "21 spotkanie Women in Technology",
+      "start_time": "2012-06-26T18:00:00+0200",
+      "end_time": "2012-06-26T21:00:00+0200",
       "id": "363313350401661"
     },
     {
       "name": "20 spotkanie Women in Technology",
+      "start_time": "2012-04-18T18:00:00-0700",
+      "end_time": "2012-04-18T21:30:00-0700",
       "id": "883552738372032"
     },
     {
       "name": "19 spotkanie Women in Technology",
+      "place": {
+        "name": "Symantec Warsaw",
+        "id": "236305923065914"
+      },
+      "start_time": "2012-03-15T18:00:00-0700",
+      "end_time": "2012-03-15T21:30:00-0700",
       "id": "835443039875836"
     },
     {
       "name": "18 spotkanie Women in Technology",
+      "place": {
+        "name": "Symantec Warsaw",
+        "id": "236305923065914"
+      },
+      "start_time": "2012-02-22T18:30:00-0800",
+      "end_time": "2012-02-22T21:30:00-0800",
       "id": "807814285940803"
     },
     {
       "name": "17 spotkanie Women in Technology",
+      "start_time": "2012-01-19T18:30:00-0800",
+      "end_time": "2012-01-19T21:30:00-0800",
       "id": "721967144581874"
     },
     {
       "name": "16 spotkanie Women in Technology",
+      "start_time": "2011-12-08T18:30:00-0800",
+      "end_time": "2011-12-08T21:30:00-0800",
       "id": "1036798869680746"
     },
     {
       "name": "15 spotkanie Women in Technology",
+      "start_time": "2011-11-24T18:30:00-0800",
+      "end_time": "2011-11-24T21:30:00-0800",
       "id": "991548357531538"
     },
     {
       "name": "14 spotkanie Women in Technology",
+      "start_time": "2011-10-19T18:00:00-0700",
+      "end_time": "2011-10-19T21:00:00-0700",
       "id": "786367484804054"
     }
   ]
